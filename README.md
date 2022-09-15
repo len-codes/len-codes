@@ -1,0 +1,3 @@
+- 👋 Hi, I’m len 
+- 👀 I’m interested in Apple, and Coding
+- 🌱 I’m currently learning PHP & C#
